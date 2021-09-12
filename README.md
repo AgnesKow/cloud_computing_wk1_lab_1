@@ -5,3 +5,7 @@ lab 1 practice
 
 this a good example of my [code](https://gist.github.com/AgnesKow/4928525e79247ccd58e1293b261a8857)
 
+###Collab Example
+
+this is the [notebook](https://colab.research.google.com/drive/1OFOLWC3xqtrBNV5OYPu5KxBlbWd19n7o?usp=sharing)
+
